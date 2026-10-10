@@ -10,7 +10,7 @@ permalink: /privacy-policy/
 
 ## Overview
 
-This privacy policy applies to the Google Cloud project rclone (the "Project"), which I created and use only for my own personal file management. The Project provides the OAuth credentials that allow [rclone](https://rclone.org/), an open-source command-line tool running on my own computer, to access my own Google Drive through the Google Drive API.
+This privacy policy applies to the Google Cloud project 'rclone' (the "Project"), which I created and use only for my own personal file management. The Project provides the OAuth credentials that allow [rclone](https://rclone.org/), an open-source command-line tool running on my own computer, to access my own Google Drive through the Google Drive API.
 
 The Project is not a public app or service. It is not offered to anyone else, and it has no website, server, or database.
 
@@ -42,7 +42,7 @@ The only data retained is my own files in my own Google Drive and the token stor
 
 ## Revoking access
 
-Access can be revoked at any time at [myaccount.google.com/permissions](https://myaccount.google.com/permissions) by removing the app named ****. Once revoked, rclone can no longer access the Drive account.
+Access can be revoked at any time at [myaccount.google.com/permissions](https://myaccount.google.com/permissions) by removing the app named 'rclone'. Once revoked, rclone can no longer access the Drive account.
 
 ## Children's privacy
 
@@ -54,4 +54,4 @@ If this policy changes, I will update the effective date at the top of this page
 
 ## Contact
 
-Questions about this policy can be sent to redacted@gmail.com.
+Questions about this policy can be raised by [opening an issue](https://github.com/frowzencamper/frowzencamper.github.io/issues) on this site's GitHub repository.
