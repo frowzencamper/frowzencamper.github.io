@@ -42,4 +42,5 @@ I may change these terms, or stop using or delete the Project, at any time. If t
 
 ## Contact
 
-Questions about these terms can be sent to readcted@gmail.com.
+Questions about these terms can be raised by [opening an issue](https://github.com/frowzencamper/frowzencamper.github.io/issues) on this site's GitHub repository.
+
